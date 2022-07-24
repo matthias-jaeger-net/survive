@@ -1,0 +1,2 @@
+# survive
+JavaScript game prototype
